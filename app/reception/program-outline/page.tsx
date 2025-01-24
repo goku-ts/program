@@ -1,13 +1,10 @@
 "use client";
 
-import React, { useEffect } from "react";
-import Button from "@/components/Button";
+import React from "react";
+
 import ResponsiveImage from "@/components/Image";
-import { useRouter } from "next/navigation";
 
-const page = () => {
-  const router = useRouter();
-
+const Page = () => {
   return (
     <div className="">
       <div className="flex flex-col items-center justify-center mt-28">
@@ -22,4 +19,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

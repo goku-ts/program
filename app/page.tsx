@@ -1,11 +1,11 @@
 "use client";
 
-import React, { useEffect } from "react";
+import React from "react";
 import Button from "@/components/Button";
 import ResponsiveImage from "@/components/Image";
 import { useRouter } from "next/navigation";
 
-const page = () => {
+const Page = () => {
   const router = useRouter();
 
   return (
@@ -23,4 +23,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

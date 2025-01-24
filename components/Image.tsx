@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "next/image";
 
-const ResponsiveImage = ({ src, alt }: any) => {
+const ResponsiveImage = ({ src, alt }: { src: string; alt: string }) => {
   return (
     <div className={`relative w-full max-w-md mx-auto`}>
       <Image
