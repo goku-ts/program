@@ -13,9 +13,9 @@ const Page = () => {
         </div>
         <h4 className="text-2xl text-gold  font-bold">A&M 281</h4>
         <p className="text-xl p-5">
-          Lead us, heavenly father, lead us O&aposer the world&aposs tempestuous
-          sea; Guard us, guide us, keep us, feed us, For we have no help but
-          thee; Yet possessing every blessing, If our God our Father be.
+          Lead us, heavenly father, lead us Oer the world&aposs tempestuous sea;
+          Guard us, guide us, keep us, feed us, For we have no help but thee;
+          Yet possessing every blessing, If our God our Father be.
         </p>
         <p className="text-xl  p-5">
           Savior breathe forgiveness o&aposer us All our weakness thou dost
