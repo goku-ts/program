@@ -23,11 +23,11 @@ const Page = () => {
         <p className="text-xl mb-2"> Arrival of Best Man and Maid of Honor</p>
         <p className="text-xl mb-2"> Arrival of Couple</p>
         <p className="text-xl mb-2"> Introduction of Chairperson</p>
-        <p className="text-xl mb-2">Chairperson's Speech</p>
+        <p className="text-xl mb-2">Chairperson&aposs Speech</p>
         <p className="text-xl mb-2 text-center">
           Cutting of Cake - Cecilia Addo and Cynthia Amekor
         </p>
-        <p className="text-xl mb-2"> Couple's First Dance</p>
+        <p className="text-xl mb-2"> Couple&aposs First Dance</p>
         <p className="text-xl mb-2"> Dinner</p>
         <p className="text-xl mb-2">Popping of Champagne</p>
         <p className="text-xl mb-2">Photography with Family and Friends</p>
@@ -35,8 +35,8 @@ const Page = () => {
         <p className="text-xl mb-2"> Closing Prayer</p>
         <p className="text-xl mb-2 mt-4 font-bold  text-gold">PROTOCOL TEAM</p>
         <p className="text-xl mb-2"> Louise Okyere - Clergy</p>
-        <p className="text-xl mb-2"> Enyonam - Groom's Family</p>
-        <p className="text-xl mb-2"> Winnifred Baidoo - Bride's Family</p>
+        <p className="text-xl mb-2"> Enyonam - Groom&aposs Family</p>
+        <p className="text-xl mb-2"> Winnifred Baidoo - Bride&aposs Family</p>
         <p className="text-xl mb-2 text-center">
           Emmanuela Efua Phlange - Ascension Anglican Church
         </p>
