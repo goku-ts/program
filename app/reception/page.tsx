@@ -17,7 +17,9 @@ const Page = () => {
         </div>
         <Button
           title="Location"
-          onClick={() => (window.location.href = "https://www.google.com")}
+          onClick={() =>
+            (window.location.href = "https://maps.app.goo.gl/wX6jp3cjtCCEYuP7A")
+          }
         />
         <Button
           title="Program Outline"
